@@ -1,8 +1,8 @@
+# Algorithms Simplified
+
 Hello World!
 
 This folder will contain resources used in the project **Algorithms Simplified**. 
-
-# Algorithms Simplified
 
 ## Mentors 
 Atur Gupta (atur@iitk.ac.in)
